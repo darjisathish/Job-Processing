@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.agility.focis.utility.ListenerTest"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.agility.focis.jp.initiateJob.DefaultOriginOfficeBasedOnMDMConfig">
+        <methods>
+          <include name="loginFocisApplication"/>
+          <include name="basedOnOriginStakeholder" invocation-numbers="0"/>
+          <include name="screenShot"/>
+        </methods>
+      </class> <!-- com.agility.focis.jp.initiateJob.DefaultOriginOfficeBasedOnMDMConfig -->
+      <class name="com.agility.focis.jp.initiateJob.BookWithOutTemplate">
+        <methods>
+          <include name="initiateJob" invocation-numbers="0"/>
+          <include name="screenShot"/>
+          <include name="loginFocisApplication"/>
+        </methods>
+      </class> <!-- com.agility.focis.jp.initiateJob.BookWithOutTemplate -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

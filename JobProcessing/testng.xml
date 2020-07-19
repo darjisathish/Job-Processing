@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FocisJP" verbose="10">
+	<listeners>
+		<listener class-name="com.agility.focis.utility.ListenerTest" />
+		<listener
+			class-name="com.agility.focis.utility.ScreenshotListener" />
+	</listeners>
+	<test name="Test">
+		<classes>
+			<class
+				name="com.agility.focis.jp.workflows.af.WorkFlow_AF_E2E_B2B" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

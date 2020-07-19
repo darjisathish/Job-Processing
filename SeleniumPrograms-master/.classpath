@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/cucumber-java-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/cucumber-junit-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/cucumber-reporting-0.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/mysql-connector-java-5.1.38.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/mysql-connector-java-6.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/phantomjs-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/selenium-html-runner-3.0.0-beta3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/selenium-safari-driver-2.43.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Projects/SeleniumPrograms-master/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Drivers/commons-io-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
