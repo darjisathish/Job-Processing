@@ -93,7 +93,7 @@ public class Activities extends BaseTest{
 				WebElement ChooseFile=driver.findElement(By.id("PWCMasterPage_PWCWebPartManager_gwpPerformOriginCustomsClearanceFr1_PerformOriginCustomsClearanceFr1_txtOthImpDocFile_btnPopup"));
 				ChooseFile.click();
 				
-				RobotClass.uploadFileWithRobot("C:\\Users\\rgurajala\\FOCiS_Automation_Script\\FOCiS_OF_AF_JA\\Drivers\\batchpiv.pdf");
+				RobotClass.uploadFileWithRobot("C:\\Users\\sdarji\\FOCiS_Automation_Script\\FOCiS_OF_AF_JA\\Drivers\\batchpiv.pdf");
 				JS.click(driver.findElement(By.id("btnDocUpload")));
 				Tasks.clickComplete();
 				Tasks.getDriver().close();

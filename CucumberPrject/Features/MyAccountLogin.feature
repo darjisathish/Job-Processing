@@ -54,8 +54,8 @@ Description: This feature will test a Login feature
   	When Enter the URL "http://practice.automationtesting.in/"
   	And Click on My Account Menu
   	And Enter registered username and password
-  	|	user	|	password	|
-    | darjisathish | Aes!@#12 |
+  	|	user			|	password	|
+    | 	darjisathish 	| 	Aes!@#12 	|
     And Click on login button
   	Then User must successfully login to the web page
 	

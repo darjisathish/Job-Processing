@@ -15,6 +15,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import junit.framework.Assert;
 
+
 public class MyAccountLoginStepDefinations {
 	
 	public WebDriver driver = null;
@@ -27,6 +28,8 @@ public class MyAccountLoginStepDefinations {
 		
 	}
 
+	
+	
 	
 	@When("^Enter the URL \"([^\"]*)\"$")
 	public void enter_the_URL(String url) throws Throwable {

@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
-import org.testng.annotations.Test;
+
 
 import com.agility.focis.testData.Constant;
 import com.agility.focis.utility.BaseTest;
@@ -48,14 +48,14 @@ public class LoginSingleUser extends BaseTest{
 		
 		System.out.println("Chrome browser is selected");
 		
-		System.setProperty("webdriver.chrome.driver", "E:\\Jar Files & Drivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\sdarji\\git_DSK\\JobProcessing\\drivers\\chromedriver.exe");
 		driver=new ChromeDriver();
 	}
 	else if(prop.getProperty("browserName").equals("ie")) 
 	{
 		
 		System.out.println("IE browser is selected");
-		System.setProperty("webdriver.ie.driver", "E:\\Jar Files & Drivers\\IEDriverServer.exe");
+		System.setProperty("webdriver.ie.driver", "C:\\Users\\sdarji\\git_DSK\\JobProcessing\\drivers\\IEDriverServer.exe");
 		driver=new InternetExplorerDriver();
 	}
 		
@@ -72,7 +72,7 @@ public class LoginSingleUser extends BaseTest{
 	
 	if(PropertiesFile.read("focisUrl").contains("demo")) {
 		
-		driver.navigate().to("https://RGurajala:Beer214@@focisdemo.agility.com");
+		driver.navigate().to("https://sdarji:Aes@123@@focisdemo.agility.com");
 		System.out.println("demo environment  is executed");
 	}
 	else 

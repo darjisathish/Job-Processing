@@ -11,14 +11,14 @@ import cucumber.api.junit.Cucumber;
 		
 		//features = "Features",
 		//features = "D:/Selenium_workspace/CucumberPrject/Features/Tagging.feature",
-		features = "D:/Selenium_workspace/CucumberPrject/Features/Hooks.feature",
+		features = "C:\\Users\\sdarji\\git_DSK\\CucumberPrject\\Features\\Hooks.feature",
 		
 		glue="stepDefinations",
 		
 		/*format= {"pretty","html:test-output",
 				"json:json_output/cucumber.json",
-				"junit:junit_xml_output/cucumber.xml"},*/
-		
+				"junit:junit_xml_output/cucumber.xml"},
+		*/
 		dryRun=false,
 		monochrome=true,
 		strict=false
