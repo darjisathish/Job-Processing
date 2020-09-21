@@ -1,9 +1,6 @@
 package com.agility.focis.jp.initiateJob;
 
-import org.apache.log4j.BasicConfigurator;
-import org.apache.log4j.ConsoleAppender;
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
+
 import org.openqa.selenium.By;
 
 import com.agility.focis.utility.BaseTest;

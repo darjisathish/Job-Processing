@@ -101,7 +101,7 @@ public class BookWithOutTemplate_AF extends BaseTest {
 			 try{
 				 File src=(File)((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 				// Copy files to specific location 
-				 // result.getName() will return name of test case so that screenshot name will be same as test case name
+				 //result.getName() will return name of test case so that screenshot name will be same as test case name
 				 String currentDir = System.getProperty("user.dir");
 				 System.err.println();
 				 FileUtils.copyFile(src, new File(currentDir+"\\FailedScreenshots"+result.getName()+".png"));

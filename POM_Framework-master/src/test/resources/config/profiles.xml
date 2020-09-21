@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profiles>
+<!-- 
+    <Profile>
+        <Name>Agile</Name>
+        <URL>http://focisagile.agility.com/login.aspx</URL>
+        <UserName>exportjob</UserName>
+        <Password>Test@123</Password>
+        <Browser>Chrome</Browser>
+        <Execute>Yes</Execute>
+    </Profile>
+
+    <Profile>
+        <Name>Agile</Name>
+        <URL>https://focisagile.agility.com/login.aspx</URL>
+        <UserName>sdarji</UserName>
+        <Password>q</Password>
+        <Browser>Chrome</Browser>
+        <Execute>Yes</Execute>
+    </Profile> -->
+
+    <Profile>
+        <Name>SIT</Name>
+        <URL>https://focissit.agility.com/login.aspx</URL>
+        <UserName>exportjob</UserName>
+        <Password>Test@1234</Password>
+        <Browser>Chrome</Browser>
+        <Execute>No</Execute>
+    </Profile>
+
+    <Profile>
+        <Name>Agile</Name>
+        <URL>https://focisagile.agility.com/default.aspx</URL>
+        <UserName>sdarji</UserName>
+        <Password>q</Password>
+        <Browser>Chrome</Browser>
+        <Execute>Yes</Execute>
+    </Profile>
+</profiles>

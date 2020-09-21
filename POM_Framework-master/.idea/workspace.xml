@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6bb95a2-75d2-4d2e-80c3-b3c9f6e09128" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/agility/focis/addCarriagesAir/AddCarriagesAirStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/agility/focis/addCarriagesAir/AddCarriagesAirStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/agility/focis/salesInvoiceAndCredit/SalesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/agility/focis/salesInvoiceAndCredit/SalesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/agility/focis/salesInvoiceAndCredit/SalesSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/agility/focis/salesInvoiceAndCredit/SalesSteps.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="dedicatedModuleDir" value="$PROJECT_DIR$" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CucumberTestNG" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.CucumberTestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CucumberTestNG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="678b5932-0fdd-4b77-9f70-64c935b014fd" name="Default Changelist" comment="" />
+      <created>1589715395431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589715395431</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Project_Structure" timestamp="1589820269295">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1589820269295" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1589820264169">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589820264169" />
+    <state width="1323" height="307" key="GridCell.Tab.0.bottom" timestamp="1589824145174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="307" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589824145174" />
+    <state width="1323" height="307" key="GridCell.Tab.0.center" timestamp="1589824145174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="307" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589824145174" />
+    <state width="1323" height="307" key="GridCell.Tab.0.left" timestamp="1589824145173">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="307" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589824145173" />
+    <state width="1323" height="307" key="GridCell.Tab.0.right" timestamp="1589824145174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="307" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589824145174" />
+  </component>
+</project>
